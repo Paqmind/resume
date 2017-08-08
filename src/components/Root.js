@@ -6,9 +6,9 @@ import About from './About.js'
 import Profile from './Profile.js'
 import Expirience from './Expirience.js'
 import Education from './Education.js'
+import '../styles/Layout.css'
 
-import '../styles/Layout.css';
-const App = props => {
+const Root = props => {
   const profileData = props.jsonObj.basics
   const aboutData = props.jsonObj.basics.summary
   const skillsData = props.jsonObj.skills
@@ -38,8 +38,8 @@ const App = props => {
     )
 }
 
-App.propTypes = {
+Root.propTypes = {
     jsonObj: PropTypes.object.isRequired
 }
 
-export default App;
+export default Root
