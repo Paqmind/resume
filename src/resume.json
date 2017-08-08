@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Artem Kozyrev",
-    "label": "Junior Web Developer",
+    "position": "Junior Web Developer",
     "picture": "./profilePhoto.jpg",
-    "email": "timon3566@gmail.com",
+    "email": "artem.kozyrev.dev@gmail.com",
     "summary": "Within last five month i'm learning front end technologies, wich helps me create modern and functional interfaces. I read the technical literature of such authors as: Flanagan, McConnell, Cormen and others.",
     "location": {
     "countryCode": "UA",
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "expirience": [
+  "experience": [
     {
       "myexp": " Graduated programming courses at Paqmind and helped to improve the content."
     }
