@@ -1,8 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import Root from './components/Root.js';
 import registerServiceWorker from './registerServiceWorker';
+const json = require('./resume.json');
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Root jsonObj={json}/>, document.getElementById('root'));
 registerServiceWorker();

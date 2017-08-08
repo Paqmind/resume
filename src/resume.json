@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Artem Kozyrev",
+    "label": "Junior Web Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "timon3566@gmail.com",
+    "summary": "Within last five month i'm learning front end technologies, wich helps me create modern and functional interfaces. I read the technical literature of such authors as: Flanagan, McConnell, Cormen and others.",
+    "location": {
+    "countryCode": "UA",
+    "region": "Crimea",
+    "city": "Kerch"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "datexgo",
+        "icon": "./github.svg"
+      },
+      {
+        "network": "Twitter",
+        "username": "woozy_mu",
+        "icon": "./twitter.svg"
+      },
+      {
+        "network": "Skype",
+        "username": "Artem Kozyrev",
+        "icon": "./skype.svg"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "artem-kozyrev-0a1350148",
+        "icon": "./linkedin.svg"
+      },
+      {
+        "network": "Telegram",
+        "username": "Default34",
+        "icon": "./telegram.svg"
+      }
+    ]
+  },
+  "expirience": [
+    {
+      "myexp": " Graduated programming courses at Paqmind and helped to improve the content."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ukrainian State University of Railway Transport",
+      "area": "Logistics, transoprt managment and railway shipping",
+      "studyType": "Master's degree in",
+      "studyDate": "2011-2016"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Html5",
+        "Css3",
+        "Js",
+        "React",
+        "Bootstrap",
+        "Git"
+      ]
+    }
+  ]
+}

@@ -46,6 +46,10 @@ contact-links {
   color: darkgray;
 }
 
+.expirience-text {
+  font-size: 1.2em;
+}
+
 .skills-list li {
   background-color: #0000ff;
   color: #fff;
