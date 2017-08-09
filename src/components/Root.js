@@ -27,7 +27,7 @@ const Root = props => {
                  <div className="divider"></div>
                  <Skills skillsData={skillsData}/>
                  <div className="divider"></div>
-                 <Experience expirienceData={experienceData}/>
+                 <Experience experienceData={experienceData}/>
                  <div className="divider"></div>
                  <Education educationData={educationData}/>
               </div>
